@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c77f3497.css",
+    "main.js": "/static/js/main.d3e557ac.js",
+    "static/js/787.c93ae902.chunk.js": "/static/js/787.c93ae902.chunk.js",
+    "static/media/back-img.png": "/static/media/back-img.9f67c18e33d21330f40c.png",
+    "static/media/linea-basic-10.svg": "/static/media/linea-basic-10.a5a02e7fc44d05c1fa87.svg",
+    "static/media/space-mono-all-400-normal.woff": "/static/media/space-mono-all-400-normal.20837090c5c0e7ba73b2.woff",
+    "static/media/linea-basic-10.eot": "/static/media/linea-basic-10.83fbe2710ec1d18f00b1.eot",
+    "static/media/linea-basic-10.ttf": "/static/media/linea-basic-10.172006d6a70ece2b1a0c.ttf",
+    "static/media/space-mono-latin-400-normal.woff2": "/static/media/space-mono-latin-400-normal.e7409717e7e2fcddb691.woff2",
+    "static/media/space-mono-latin-ext-400-normal.woff2": "/static/media/space-mono-latin-ext-400-normal.d2d912f768aec7af94de.woff2",
+    "static/media/linea-basic-10.woff": "/static/media/linea-basic-10.5665793dc15cc2dca6db.woff",
+    "static/media/space-mono-vietnamese-400-normal.woff2": "/static/media/space-mono-vietnamese-400-normal.ff735bac362e5c02ca82.woff2",
+    "index.html": "/index.html",
+    "main.c77f3497.css.map": "/static/css/main.c77f3497.css.map",
+    "main.d3e557ac.js.map": "/static/js/main.d3e557ac.js.map",
+    "787.c93ae902.chunk.js.map": "/static/js/787.c93ae902.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c77f3497.css",
+    "static/js/main.d3e557ac.js"
+  ]
+}
